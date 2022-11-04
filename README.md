@@ -1,5 +1,5 @@
 ## Olá Mundo! Hudson aqui 👋
-#### Estou cursando ciêcias da computação e aqui, reúno meus projetos e atividades acadêmicas.
+#### Estou cursando ciências da computação e aqui, reúno meus projetos e atividades acadêmicas.
 #### Seja muito bem vindo(a).
 ## Meus conhecimentos
 
