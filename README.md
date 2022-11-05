@@ -1,4 +1,4 @@
-## Olá Mundo! Hudson aqui 🖐
+## Olá Mundo! Hudson aqui 🖖
 #### Estou cursando ciências da computação e aqui, reúno meus projetos e atividades acadêmicas.
 #### Seja muito bem vindo(a).
 ## Meus conhecimentos
